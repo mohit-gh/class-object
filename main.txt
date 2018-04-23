@@ -2,3 +2,11 @@ Class & Object:
 Class is a programmer-defined data type, which include local methods and local variables.
 Class is a collection of objects. Objects has properties and behaviours.
 First we have to define a php class, where classname should be same as filename.
+
+In the basics of object oriented, let see how to define a class and create an object:
+
+Creating objects in php
+When Class is created, we can create any number of objects to that class. The Object is created with the help of new keyword.
+
+Calling Member Function
+When the Object is created we can access the variables and method function with the help of '->' operator, accessing the method is done to get that information of that method. 
