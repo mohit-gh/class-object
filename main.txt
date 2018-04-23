@@ -1,0 +1,4 @@
+Class & Object:
+Class is a programmer-defined data type, which include local methods and local variables.
+Class is a collection of objects. Objects has properties and behaviours.
+First we have to define a php class, where classname should be same as filename.
